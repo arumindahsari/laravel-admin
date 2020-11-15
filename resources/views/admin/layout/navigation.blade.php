@@ -15,6 +15,8 @@
                         <a href="{{url('/admin')}}"> <i class="menu-icon fa fa-dashboard"></i>Dashboard </a>
                         <a href="{{url('/admin/kategori')}}"> <i class="menu-icon fa fa-dashboard"></i>Kategori </a>
                         <a href="{{url('/admin/tugas')}}"> <i class="menu-icon fa fa-dashboard"></i>Tugas </a>
+                        
+                        <a href="{{url('/admin/mahasiswa')}}"> <i class="menu-icon fa fa-dashboard"></i>Arum Indah Sari </a>
                     </li>
                     <h3 class="menu-title">UI elements</h3><!-- /.menu-title -->
                     <li class="menu-item-has-children dropdown">
